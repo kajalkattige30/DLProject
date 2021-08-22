@@ -2,8 +2,10 @@ Traffic Sign Recognition using Deep Learning and PyTorch.
 
 Dependencies :
 - Python 3.6.9
-- matplotlib
+- matplotlib.pyplot
 - torchvision
+- opendatasets
+- os
 - torch
 
 Instructions to run
