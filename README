@@ -1,1 +1,11 @@
-Traffic Sign Recognition and Classification using Deep Learning.
+### Traffic Sign Recognition using Deep Learning and PyTorch.
+
+#### Dependencies :
+##### Python 3.6.9
+##### matplotlib
+##### torchvision
+##### torch
+
+#### Instructions to run
+
+##### Run all cells of TrafficSignRecognitionProject.ipynb
