@@ -9,3 +9,9 @@ Dependencies :
 Instructions to run
 
 -> Run all cells of TrafficSignRecognitionProject.ipynb
+
+References :
+- https://pytorch.org/vision/stable/datasets.html
+- https://pytorch.org/vision/stable/transforms.html
+- https://pytorch.org/docs/stable/data.html
+- https://github.com/wolfapple/traffic-sign-recognition
